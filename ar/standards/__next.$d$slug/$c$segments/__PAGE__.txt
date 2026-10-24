@@ -1,0 +1,50 @@
+1:"$Sreact.fragment"
+2:I[9919,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js","/mspg-preview/_next/static/chunks/3_t-_z9vf6rv7.js"],"ChainBackdrop"]
+3:I[54778,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js","/mspg-preview/_next/static/chunks/3_t-_z9vf6rv7.js"],""]
+4:I[55404,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[55404,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js"],"ViewportBoundary"]
+a:I[55404,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js"],"MetadataBoundary"]
+8:X
+1f:X
+1f:C
+0:{"buildId":"LDiLAjkjqbpBxb6xk71JH","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main","lang":"ar","dir":"rtl","className":"localized-page","children":[["$","section",null,{"className":"page-heading","children":[["$","$L2",null,{}],["$","div",null,{"className":"container","children":[["$","nav",null,{"aria-label":"التنقل الرئيسي","children":[["$","$L3",null,{"href":"/ar","children":"الرئيسية"}],["$","span",null,{"children":" / "}],false,"المعايير"]}],["$","p",null,{"className":"eyebrow","children":"شركة MSPG للتصنيع الصناعي"}],["$","h1",null,{"children":"المعايير"}],["$","p",null,{"children":"تشمل المراجع الفنية EN 115 والمعايير الوطنية ذات الصلة وإرشادات السلالم والممرات المتحركة. يجب مراجعة الإصدار والمتطلبات المناسبة لكل مشروع."}]]}],false]}],["$","section",null,{"className":"section container","children":[false,false,false,false,[["$","div",null,{"className":"prose","children":[["$","p","تعد EN 115 والمعياران الوطنيان الإيرانيان 13836-1 و13836-2 والإرشادات الفنية ذات الصلة والفصل 15 من لوائح البناء الوطنية من المراجع المستخدمة لمراجعة السلالم والممرات المتحركة. يُتحقق من الإصدار والنطاق المناسبين لكل مشروع.",{"children":"تعد EN 115 والمعياران الوطنيان الإيرانيان 13836-1 و13836-2 والإرشادات الفنية ذات الصلة والفصل 15 من لوائح البناء الوطنية من المراجع المستخدمة لمراجعة السلالم والممرات المتحركة. يُتحقق من الإصدار والنطاق المناسبين لكل مشروع."}],["$","p","تغطي EN 115-1:2017 سلامة بناء وتركيب السلالم والممرات المتحركة الجديدة. وتتناول EN 115-2:2021 تحسين سلامة المعدات الموجودة.",{"children":"تغطي EN 115-1:2017 سلامة بناء وتركيب السلالم والممرات المتحركة الجديدة. وتتناول EN 115-2:2021 تحسين سلامة المعدات الموجودة."}],["$","p","توفر APTA RT-EE-RP-001-02، إصدار 2019، إرشادات لمواصفات السلالم المتحركة شديدة الاستخدام في النقل العام. وهي إرشادات تصميم ولا تحل محل متطلبات السلامة المحلية.",{"children":"توفر APTA RT-EE-RP-001-02، إصدار 2019، إرشادات لمواصفات السلالم المتحركة شديدة الاستخدام في النقل العام. وهي إرشادات تصميم ولا تحل محل متطلبات السلامة المحلية."}],["$","p","تصف ISO 25745-3:2015 طرق تقدير استهلاك الطاقة وتصنيف أداء الطاقة للسلالم والممرات المتحركة.",{"children":"تصف ISO 25745-3:2015 طرق تقدير استهلاك الطاقة وتصنيف أداء الطاقة للسلالم والممرات المتحركة."}]]}],["$","div",null,{"className":"standard-sources","children":[["$","h2",null,{"children":"المعايير"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"https://knowledge.bsigroup.com/products/safety-of-escalators-and-moving-walks-construction-and-installation-1","target":"_blank","rel":"noopener noreferrer","children":"EN 115-1:2017"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://knowledge.bsigroup.com/products/safety-of-escalators-and-moving-walks-rules-for-the-improvement-of-safety-of-existing-escalators-and-moving-walks-1","target":"_blank","rel":"noopener noreferrer","children":"EN 115-2:2021"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.apta.com/standard/apta-rt-ee-rp-001-02/","target":"_blank","rel":"noopener noreferrer","children":"APTA RT-EE-RP-001-02"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.iso.org/standard/60952.html","target":"_blank","rel":"noopener noreferrer","children":"ISO 25745-3:2015"}]}]]}]]}]],false,false,["$","div",null,{"className":"inline-cta","children":[["$","h2",null,{"children":"أخبرنا عن مشروعك"}],["$","$L3",null,{"className":"button","href":"/ar/contact","children":["اطلب معلومات"," ↗"]}]]}]]}]]}],[["$","script","script-0",{"src":"/mspg-preview/_next/static/chunks/3_t-_z9vf6rv7.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#080f19"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"المعايير | MSPG"}],["$","meta","1",{"name":"description","content":"تولید و بومی‌سازی قطعات پله برقی و معرفی توانمندی‌های ماشین سازان پایدار قرن."}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}]}],null]}],"isPartial":"$@1c","staleTime":"$8","varyParams":null},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$8","varyParams":"$1f"},{"rsc":"$L20","isPartial":"$@21","staleTime":"$8","varyParams":"$1f"},{"rsc":"$L22","isPartial":"$@23","staleTime":"$8","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@24","rootVaryParams":null,"needsRuntimeRequest":"$@25"}
+26:I[54954,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js"],"IconMark"]
+27:I[36299,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js"],"default"]
+28:I[39711,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js"],"default"]
+29:I[22109,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js"],"SkipLink"]
+2a:I[72749,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js"],"Header"]
+2b:I[49880,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js","/mspg-preview/_next/static/chunks/2zpq-t8cu2rrh.js"],"default"]
+2c:I[29827,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js"],"Footer"]
+2d:I[15060,["/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","/mspg-preview/_next/static/chunks/1guas106kj-iy.js"],"CardSpotlight"]
+:HL["/mspg-preview/_next/static/chunks/3gwayx-jitynk.css","style"]
+6:null
+b:["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]
+c:["$","meta","3",{"property":"og:title","content":"ماشین سازان پایدار قرن | MSPG"}]
+d:["$","meta","4",{"property":"og:description","content":"تولید و بومی‌سازی قطعات پله برقی و معرفی توانمندی‌های ماشین سازان پایدار قرن."}]
+e:["$","meta","5",{"property":"og:site_name","content":"MSPG"}]
+f:["$","meta","6",{"property":"og:locale","content":"fa_IR"}]
+10:["$","meta","7",{"property":"og:image","content":"https://bloody1819.github.io/mspg-preview/og.png"}]
+11:["$","meta","8",{"property":"og:image:width","content":"1200"}]
+12:["$","meta","9",{"property":"og:image:height","content":"630"}]
+13:["$","meta","10",{"property":"og:type","content":"website"}]
+14:["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}]
+15:["$","meta","12",{"name":"twitter:title","content":"ماشین سازان پایدار قرن | MSPG"}]
+16:["$","meta","13",{"name":"twitter:description","content":"تولید و بومی‌سازی قطعات پله برقی و معرفی توانمندی‌های ماشین سازان پایدار قرن."}]
+17:["$","meta","14",{"name":"twitter:image","content":"https://bloody1819.github.io/mspg-preview/og.png"}]
+18:["$","meta","15",{"name":"twitter:image:width","content":"1200"}]
+19:["$","meta","16",{"name":"twitter:image:height","content":"630"}]
+1a:["$","link","17",{"rel":"icon","href":"/mspg-preview/icon.svg"}]
+1b:["$","$L26","18",{}]
+1d:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+20:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+22:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mspg-preview/_next/static/chunks/3gwayx-jitynk.css","precedence":"next"}],["$","script","script-0",{"src":"/mspg-preview/_next/static/chunks/1_4pjifklhs0x.js","async":true}],["$","script","script-1",{"src":"/mspg-preview/_next/static/chunks/1guas106kj-iy.js","async":true}]],["$","html",null,{"lang":"fa","dir":"rtl","children":["$","body",null,{"children":[["$","$L29",null,{}],["$","$L2a",null,{}],["$","$L27",null,{"parallelRouterKey":"children","error":"$2b","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/mspg-preview/_next/static/chunks/2zpq-t8cu2rrh.js","async":true}]],"template":["$","$L28",null,{}],"notFound":[["$","main",null,{"id":"main","className":"section container","children":[["$","h1",null,{"children":"صفحه یافت نشد"}],["$","$L3",null,{"className":"button","href":"/","children":"بازگشت به خانه"}]]}],[]]}],["$","$L2c",null,{}],["$","$L2d",null,{}]]}]}]]}]
+8:300
+25:true
+8:C
+24:0
+1c:"$undefined"
+1e:"$undefined"
+21:"$undefined"
+23:"$undefined"
+7:"$undefined"
